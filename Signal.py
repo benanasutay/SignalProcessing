@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image
-image_path = 'C:/Users/BENAN/Desktop/Signal/SignalProcessing/Lenna.png'  # Enter the image path here
+image_path = ''  # Enter the image path here
 image = cv2.imread(image_path)  
 
 # Function to change the bit depth of the image
